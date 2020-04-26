@@ -1,7 +1,7 @@
 
 Toàn bộ project này được làm trong 14 tiếng kể cả thời gian học lại, vì team chúng em đổi ý tưởng khá muộn sau khi nhận được cố vấn của mentor, và app ban đầu bọn em định làm là trên nền tảng mobile chứ không phải web, và chuyên môn bọn em thì lại là mobile. Mong BGK có thể thông cảm với nỗ lực tìm ra ý tưởng và sản phẩm tốt nhất có thể của bọn em.
 
-Đây là link bản prototype của app mà chúng em đã thiết kế trong ngày hôm qua và hôm nay, kính mong BGK xem và cân : https://www.figma.com/proto/lYtfVZ3UqhjIEE6upuCs00/Untitled?node-id=21%3A197&scaling=min-zoom&fbclid=IwAR0C_BGJM4PoaoMQlmIWY15ysHMQJ6eZL8nxEt1CfRPRVkc_cyrjUdAgSlw
+Đây là link bản prototype của app mà chúng em đã thiết kế trong ngày hôm qua và hôm nay, kính mong BGK xem và cân nhắc: https://www.figma.com/proto/lYtfVZ3UqhjIEE6upuCs00/Untitled?node-id=21%3A197&scaling=min-zoom&fbclid=IwAR0C_BGJM4PoaoMQlmIWY15ysHMQJ6eZL8nxEt1CfRPRVkc_cyrjUdAgSlw
 
 This whole project was built in 14 hours including the time it took us to relearn Full Stack React, since our team changes our product idea very late yesterday afternoon after receiving advice from mentors. We hope judges are sympathetic for us, and considers our design prototype more: https://www.figma.com/proto/lYtfVZ3UqhjIEE6upuCs00/Untitled?node-id=21%3A197&scaling=min-zoom&fbclid=IwAR0C_BGJM4PoaoMQlmIWY15ysHMQJ6eZL8nxEt1CfRPRVkc_cyrjUdAgSlw
 
